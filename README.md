@@ -1,1 +1,1 @@
-# liri-node-app
+Liri is a  Language Interpretation and Recognition Interface. You can use Liri to get access to your tweets or find out about a movie or song.
